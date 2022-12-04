@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607359200 source:d:\cpp_workspace\codeforces\40_b\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+

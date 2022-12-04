@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607085256 source:d:\cpp_workspace\codeforces\39_b\main.cpp
+	<iostream>
+	<vector>
+

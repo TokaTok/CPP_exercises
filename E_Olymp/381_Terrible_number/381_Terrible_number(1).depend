@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622285863 source:d:\cpp_workspace\e_olymp\new\381_terrible_number\main.cpp
+	<iostream>
+	<cmath>
+
